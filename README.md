@@ -1,4 +1,4 @@
-# osTicket-psot-install
+# osTicket-post-install
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
