@@ -26,26 +26,287 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+![image](https://github.com/user-attachments/assets/f0fc66e5-55c0-4cd8-8575-f0a35d32da87)
+
+![image](https://github.com/user-attachments/assets/37a02b60-b721-4106-8e79-91a58feeacab)
+
+![image](https://github.com/user-attachments/assets/30aa24c0-b30a-45cb-bd31-7ea966651602)
+
+![image](https://github.com/user-attachments/assets/51dbebf5-e962-46aa-aeb6-346353e6891c)
+
+![image](https://github.com/user-attachments/assets/7a3d1563-5135-407a-b88d-60220065a519)
+
+![image](https://github.com/user-attachments/assets/44d4f30c-023e-490b-901d-91d90ce33f34)
+
+![image](https://github.com/user-attachments/assets/58bba36c-2119-4767-b764-ec0de9f88061)
+
+![image](https://github.com/user-attachments/assets/45d07e42-287d-45c8-930d-dea42ad70e5e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet, 
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet, 
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet, 
 </p>
 <br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
