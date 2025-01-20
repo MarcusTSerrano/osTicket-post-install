@@ -42,7 +42,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/user-attachments/assets/45d07e42-287d-45c8-930d-dea42ad70e5e)
 
+![image](https://github.com/user-attachments/assets/8db13f43-7e5b-4677-a680-916630846504)
 
+![image](https://github.com/user-attachments/assets/64d9f38a-5935-49ec-a3ec-c50d7dc4e8cc)
 
 
 
