@@ -118,7 +118,7 @@ Select Settings > Users > User Settings > Make sure Registration Required is che
 ![image](https://github.com/user-attachments/assets/1428cc1d-bfdb-46f9-8f48-8208e27b6a4d)
 
 <p>
-Create a new Agent > Configure Access > Assign to Team
+Create a new Agent 
 </p>
 <br />
 
@@ -126,7 +126,7 @@ Create a new Agent > Configure Access > Assign to Team
 ![image](https://github.com/user-attachments/assets/b4202a4e-df76-44bf-9e0b-2345f53edead)
 
 <p>
-Create a new Agent > Configure Access
+Configure Access
 </p>
 <br />
 
@@ -135,28 +135,28 @@ Create a new Agent > Configure Access
 ![image](https://github.com/user-attachments/assets/e60c4ffb-130e-4e5e-8cb3-7dd96fae23a5)
 
 <p>
-Select Agent Panel > Users > User Directory > Add User
+Assign to Team > Online Banking
 </p>
 <br />
 
 ![image](https://github.com/user-attachments/assets/3b695f04-816b-430f-bc28-81e336e79e2a)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create a new Agent
 </p>
 <br />
 
 ![image](https://github.com/user-attachments/assets/0ca87857-cb59-4514-8cfc-c0318ffb2300)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Configure Access
 </p>
 <br />
 
 ![image](https://github.com/user-attachments/assets/bee10736-4766-45cd-84f1-1e30c54472b2)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Select Agent Panel > Users > User Directory > Add User
 </p>
 <br />
 
