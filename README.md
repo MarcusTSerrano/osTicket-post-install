@@ -164,7 +164,7 @@ Select Agent Panel > Users > User Directory > Add User
 ![image](https://github.com/user-attachments/assets/da34e4a6-1ea4-4500-9a0f-5c6beabaf2b6)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create User > ! Fill in Phone Number, required for logging into user portal !
 </p>
 <br />
 
@@ -172,7 +172,7 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/1285c049-17b4-45aa-b8da-0e6dba6f03d2)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create User > ! Fill in Phone Number, required for logging into user portal ! 
 </p>
 <br />
 
@@ -180,7 +180,7 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/219e6c56-6476-4209-9c67-032b8c14872b)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Select Admin Panel > Manage > SLA > Add New SLA Plan 
 </p>
 <br />
 
@@ -188,7 +188,7 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/33697716-a23a-4311-9030-471953b38dc1)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
 </p>
 <br />
 
@@ -196,7 +196,7 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/f21633a6-31c9-408c-9c8f-75c8aa10d09f)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
 </p>
 <br />
 
@@ -204,7 +204,7 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/a0cc5550-ef7e-4040-82d2-30c83b1d18f6)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Sev-C (Grace Period: 8 hours, Business Hours)
 </p>
 <br />
 
@@ -212,7 +212,7 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/4ad8532e-1a96-4e74-93ac-2bd903119322)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Select Manage > Help Topics > Add New Help Topic
 </p>
 <br />
 
@@ -220,7 +220,7 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/def4120e-c5f4-42f6-8324-b9a65abedf67)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create a Topic : Business Critical Outage > Parent Topic : Report a Problem
 </p>
 <br />
 
@@ -228,7 +228,7 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/a3c0ffe0-ad37-40bc-96aa-13b59ca77616)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create a Topic : Personal Computer Issues > Parent Topic : Report a Problem
 </p>
 <br />
 
@@ -236,7 +236,7 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/7618bf07-4d25-4f1d-8397-632aecc3bf32)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create a Topic : Equipment Request > Parent Topic : Report a Problem
 </p>
 <br />
 
@@ -244,7 +244,7 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/d10d73ae-aadc-4c7f-bbec-6a4feaaeb1fb)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create a Topic : Password Reset > Parent Topic : Report a Problem
 </p>
 <br />
 
@@ -252,24 +252,6 @@ Lorem ipsum dolor sit amet,
 ![image](https://github.com/user-attachments/assets/0982aa2d-77f6-4c7e-b170-1418330bae2c)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create a Topic : Other > Parent Topic : General Inquiry
 </p>
 <br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>
-Lorem ipsum dolor sit amet, 
-</p>
-<br />
-
