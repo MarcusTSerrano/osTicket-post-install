@@ -80,24 +80,17 @@ Parent : Top Level Department
 </p>
 <br />
 
-
-![image](https://github.com/user-attachments/assets/45d07e42-287d-45c8-930d-dea42ad70e5e)
-
 <p>
 Name : SysAdmin
 </p>
 <br />
-
-
-![image](https://github.com/user-attachments/assets/8db13f43-7e5b-4677-a680-916630846504)
 
 <p>
 Under Access tab make sure all boxes are selected, then add department
 </p>
 <br />
 
-
-![image](https://github.com/user-attachments/assets/64d9f38a-5935-49ec-a3ec-c50d7dc4e8cc)
+![image](https://github.com/user-attachments/assets/45d07e42-287d-45c8-930d-dea42ad70e5e)
 
 <p>
 Select Agents > Teams > Add New Team
@@ -105,7 +98,7 @@ Select Agents > Teams > Add New Team
 <br />
 
 
-![image](https://github.com/user-attachments/assets/1428cc1d-bfdb-46f9-8f48-8208e27b6a4d)
+![image](https://github.com/user-attachments/assets/8db13f43-7e5b-4677-a680-916630846504)
 
 <p>
 Name : Online Banking, then create team
@@ -113,7 +106,8 @@ Name : Online Banking, then create team
 <br />
 
 
-![image](https://github.com/user-attachments/assets/b4202a4e-df76-44bf-9e0b-2345f53edead)
+
+![image](https://github.com/user-attachments/assets/64d9f38a-5935-49ec-a3ec-c50d7dc4e8cc)
 
 <p>
 Select Settings > Users > User Settings > Make sure Registration Required is checked
@@ -121,7 +115,7 @@ Select Settings > Users > User Settings > Make sure Registration Required is che
 <br />
 
 
-![image](https://github.com/user-attachments/assets/e60c4ffb-130e-4e5e-8cb3-7dd96fae23a5)
+![image](https://github.com/user-attachments/assets/1428cc1d-bfdb-46f9-8f48-8208e27b6a4d)
 
 <p>
 Create a new Agent > Configure Access > Assign to Team
@@ -129,7 +123,7 @@ Create a new Agent > Configure Access > Assign to Team
 <br />
 
 
-![image](https://github.com/user-attachments/assets/3b695f04-816b-430f-bc28-81e336e79e2a)
+![image](https://github.com/user-attachments/assets/b4202a4e-df76-44bf-9e0b-2345f53edead)
 
 <p>
 Create a new Agent > Configure Access
@@ -137,13 +131,27 @@ Create a new Agent > Configure Access
 <br />
 
 
-![image](https://github.com/user-attachments/assets/0ca87857-cb59-4514-8cfc-c0318ffb2300)
+
+![image](https://github.com/user-attachments/assets/e60c4ffb-130e-4e5e-8cb3-7dd96fae23a5)
 
 <p>
 Select Agent Panel > Users > User Directory > Add User
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/3b695f04-816b-430f-bc28-81e336e79e2a)
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/0ca87857-cb59-4514-8cfc-c0318ffb2300)
+
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
 
 ![image](https://github.com/user-attachments/assets/bee10736-4766-45cd-84f1-1e30c54472b2)
 
